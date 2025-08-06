@@ -1,9 +1,9 @@
 # 👋 Hola, soy Jairo Torres
 
-💻 Actualmente estudiando Desarrollo Web en [**Jóvenes a Programar** 🇺🇾](https://jovenesaprogramar.edu.uy/)  
-🌱 Aprendiendo: *HTML*, *CSS* y *JS*
-💡 Me interesa el diseño web, la accesibilidad y el trabajo en equipo
-📚 En mi tiempo libre practico con desafíos de código y pequeños proyectos
+-💻 Actualmente estudiando Desarrollo Web en [**Jóvenes a Programar**](https://jovenesaprogramar.edu.uy/) 🇺🇾  
+-🌱 Aprendiendo: *HTML*, *CSS* y *JS*
+-💡 Me interesa el diseño web, la accesibilidad y el trabajo en equipo
+-📚 En mi tiempo libre practico con desafíos de código y pequeños proyectos
 
 ---
 
