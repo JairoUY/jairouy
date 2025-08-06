@@ -1,9 +1,8 @@
 # 👋 Hola, soy Jairo Torres
-
--💻 Actualmente estudiando Desarrollo Web en [**Jóvenes a Programar**](https://jovenesaprogramar.edu.uy/) 🇺🇾  
--🌱 Aprendiendo: *HTML*, *CSS* y *JS*
--💡 Me interesa el diseño web, la accesibilidad y el trabajo en equipo
--📚 En mi tiempo libre practico con desafíos de código y pequeños proyectos
+- 💻 Actualmente estudiando Desarrollo Web en [**Jóvenes a Programar**](https://jovenesaprogramar.edu.uy/) 🇺🇾
+- 🌱 Aprendiendo: *HTML*, *CSS* y *JS*
+- 💡 Me interesa el diseño web, la accesibilidad y el trabajo en equipo
+- 📚 En mi tiempo libre practico con desafíos de código y pequeños proyectos
 
 ---
 
@@ -19,10 +18,4 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
----
-
-## 📈 Estadísticas de GitHub
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=jairouy&show_icons=true&theme=github_dark)
 
