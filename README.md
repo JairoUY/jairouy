@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jairouy&label=Profile%20views&style=for-the-badge&color=213E62" alt="jairouy" />
-  <img src="https://img.shields.io/github/followers/jairouy?label=Followers&style=for-the-badge&color=0A1833" />
+  <!-- Followers <img src="https://img.shields.io/github/followers/jairouy?label=Followers&style=for-the-badge&color=0A1833" /> -->
 </p>
 
 <h2>Sobre mi</h2>
@@ -23,7 +23,9 @@
   - 📚 En mi tiempo libre practico con desafíos de código y pequeños proyectos
   
 💬 Siempre estoy abierto a colaborar, charlar y seguir aprendiendo.
+
 <br/><br/>
+
 <h2 align="center">📫 Podés contactarme por acá</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/jairo-torres-/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
@@ -33,6 +35,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github"/>
 
 <br/><br/>
+
 [![Trophy](https://github-profile-trophy.vercel.app/?username=jairouy&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
