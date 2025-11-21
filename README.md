@@ -11,7 +11,7 @@
   
   - 💻 Soy un estudiante de Desarrollo Web en <a href="https://jovenesaprogramar.edu.uy" target="_blank">Jóvenes a Programar</a> 🇺🇾
     
-  - 🌱 Actualmente estoy aprendiendo: **HTML**, **CSS** y **JS**
+  - 🌱 Actualmente estoy aprendiendo: **JS**, **NodeJS**, **Base de Datos**
     
   - 🚀 Mis objetivos:
     - Convertirme en un **desarrollador full-stack**
@@ -32,7 +32,7 @@
   <a href="mailto:jairo.torres.uy@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Habilidades y Herramientas</h2>
-<img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,bootstrap,figma,git,github,vscode"/>
 
 <br/><br/>
 
