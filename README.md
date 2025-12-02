@@ -62,12 +62,14 @@ Committed to clean code, learning and professional growth.
     <td><img src="https://skillicons.dev/icons?i=git" /></td>
     <td><img src="https://skillicons.dev/icons?i=github" /></td>
     <td><img src="https://skillicons.dev/icons?i=vscode" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postman" /></td>
     <td align="center"><img src="https://cdn-icons-png.flaticon.com/128/732/732252.png" width="48px"/></td>
   </tr>
   <tr align="center">
     <td>Git</td>
     <td>GitHub</td>
     <td>VS Code</td>
+    <td>Postman</td>
     <td>Trello</td>
   </tr>
 </table>
