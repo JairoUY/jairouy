@@ -48,11 +48,13 @@ Committed to clean code, learning and professional growth.
     <td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
     <td><img src="https://skillicons.dev/icons?i=express" /></td>
     <td><img src="https://skillicons.dev/icons?i=mysql" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" /></td>
   </tr>
   <tr align="center">
     <td>Node.js</td>
     <td>Express.js</td>
     <td>SQL</td>
+    <td>MongoDB</td>
   </tr>
 </table>
 
